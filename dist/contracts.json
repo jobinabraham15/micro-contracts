@@ -1,0 +1,16 @@
+{
+  "browse": {
+    "name": "Browse",
+    "route": "browse",
+    "host": "http://127.0.0.1:3001",
+    "type": "CRA",
+    "landing": "/main"
+  },
+  "order": {
+    "name": "Order",
+    "route": "order",
+    "host": "http://127.0.0.1:3004",
+    "type": "CRA",
+    "landing": "/main"
+  }
+}
