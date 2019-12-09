@@ -1,8 +1,15 @@
 {
-  "browse": {
+  "staffing": {
     "name": "Staffing",
     "route": "staffing",
     "host": "http://127.0.0.1:3001",
+    "type": "CRA",
+    "landing": "/main"
+  },
+  "e2e": {
+    "name": "E2E",
+    "route": "e2e",
+    "host": "http://127.0.0.1:3002",
     "type": "CRA",
     "landing": "/main"
   }
