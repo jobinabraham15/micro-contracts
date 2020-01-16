@@ -2,9 +2,9 @@
   "staffing": {
     "name": "Staffing",
     "route": "staffing",
-    "host": "http://127.0.0.1:3001",
+    "host": "http://127.0.0.1:3001/react-dist",
     "type": "CRA",
-    "landing": "/main"
+    "landing": "/employee"
   },
   "e2e": {
     "name": "E2E",
